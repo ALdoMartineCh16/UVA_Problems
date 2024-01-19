@@ -1,12 +1,8 @@
-#include<iostream>
-#include<string>
+#include<bits/stdc++.h>
 
 using namespace std;
 
 int main(){
-    freopen("in.txt","r",stdin);
-    freopen("out.txt","w",stdout);
-    
     string s;
     int i,ax1,ax2;    
     
